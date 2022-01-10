@@ -1,0 +1,30 @@
+.guess {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    background-color: rgba(255,
+            255,
+            255,
+            0.336);
+    width: 150px;
+    word-break: break-all;
+}
+
+.guess p {
+    margin: 5px;
+}
+
+.guess h3 {
+    margin: 5px;
+    font-size: 16px;
+}
+
+.guess.right {
+    color: #ac85b8;
+}
+
+.guess.wrong {
+    color: #703268;
+    background-color: rgba(102, 102, 102, 0.13);
+}

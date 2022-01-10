@@ -1,0 +1,12 @@
+.guess-input-wrapper .guess-input {
+    margin-bottom: 30px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.651);
+}
+
+.guess-input-wrapper .guess-label {
+    margin-bottom: 10px;
+    font-size: 15px;
+}

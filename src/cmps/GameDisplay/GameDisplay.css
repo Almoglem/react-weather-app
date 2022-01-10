@@ -1,0 +1,15 @@
+.game-container {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.game-container h1 {
+    color: #804688;
+    font-size: 30px;
+    margin: 0;
+}
+
+.score-display p {
+    font-size: 20px;
+}
